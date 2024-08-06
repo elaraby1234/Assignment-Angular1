@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #2c3e50;
+}
+.nav-link{
+    color: aliceblue;
+}
+nav{
+    transition: 0.5s padding;
+}
+nav ul li a{
+    display: block;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+}
